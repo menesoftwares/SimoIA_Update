@@ -1,0 +1,8 @@
+{
+  "versao": "1.0.0.39",
+  "data": "09/11/2026",
+  "arquivo": "SimoIA_1.0.0.39.zip",
+  "tamanho": 471448,
+  "sha256": "d6606b61537eb7d84aa1c2028cd3127844f2d20b2fc2ef5853879b6974e95745",
+  "novidades": "### Gestão › Atualizações: atualizar pelo sistema\n- No topo da guia **Atualizações** aparece se há uma **versão nova** disponível, com as novidades dela.\n- O botão **Atualizar agora** (só para master) baixa e instala a versão sozinho: o sistema fica fora do ar por cerca de 1 minuto e volta já atualizado, e a página recarrega sozinha. O banco e as configurações não mudam, e o código anterior fica guardado.\n- **Verificar de novo** consulta na hora se saiu versão nova."
+}
