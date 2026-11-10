@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.41",
+  "versao": "1.0.0.42",
   "data": "10/11/2026",
-  "arquivo": "SimoIA_1.0.0.41.zip",
-  "tamanho": 472209,
-  "sha256": "27bc0ea39ee08fcc60cbd100c87b3106404627d6c66a61d211df93863bd922b4",
-  "novidades": "### Simulador: margem sem os tributos descontados\n- Quando o **ICMS** ou o **PIS/COFINS** vem como desconto do total do pedido, esse valor **não entra mais no cálculo da margem**. Só o imposto incluso continua sendo descontado do resultado."
+  "arquivo": "SimoIA_1.0.0.42.zip",
+  "tamanho": 472379,
+  "sha256": "bdd62679c3d3ce18938d5afb91658cca3535a5ea8332b60dcd6fb012d2978d96",
+  "novidades": "### Simulador: ICMS como desconto só quando dispensado\n- O **ICMS** só é abatido do total do pedido quando o sistema informa um **valor de ICMS dispensado** (desconto do tipo de documento). Nos demais casos, o ICMS volta a ser calculado normalmente, incluso no preço."
 }
