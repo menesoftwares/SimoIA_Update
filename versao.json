@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.42",
+  "versao": "1.0.0.43",
   "data": "10/11/2026",
-  "arquivo": "SimoIA_1.0.0.42.zip",
-  "tamanho": 472379,
-  "sha256": "bdd62679c3d3ce18938d5afb91658cca3535a5ea8332b60dcd6fb012d2978d96",
-  "novidades": "### Simulador: ICMS como desconto só quando dispensado\n- O **ICMS** só é abatido do total do pedido quando o sistema informa um **valor de ICMS dispensado** (desconto do tipo de documento). Nos demais casos, o ICMS volta a ser calculado normalmente, incluso no preço."
+  "arquivo": "SimoIA_1.0.0.43.zip",
+  "tamanho": 473708,
+  "sha256": "e05d48c8c1b6fb1ba242584d9888a0ba20e6fdcc3ba0879aa02158041ed7af1b",
+  "novidades": "### Usuários: permissão para selecionar o custo no Simulador\n- Nova caixa **Simulador de preços (permite selecionar custo)** no cadastro de usuários. Sem ela, o campo **Custo** do Simulador mostra todos os custos, mas só o primeiro da lista pode ser escolhido. Começa desmarcada para todos.\n- **Integrar pedidos (simulador)** agora se chama **Simulador de preços (integrar pedidos)**, e as caixas foram reorganizadas em linhas: Simulador, depois custo e integrar pedidos, depois Coletor.\n\n### Simulador: tabela de preço por código\n- O campo **Tabela de preço** mostra cada tabela como **código - descrição**, em ordem de código.\n\n### Gestão › Atualizações\n- A versão nova aparece em até 1 minuto depois de publicada (antes podia levar até 5 minutos)."
 }
