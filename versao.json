@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.40",
+  "versao": "1.0.0.41",
   "data": "10/11/2026",
-  "arquivo": "SimoIA_1.0.0.40.zip",
-  "tamanho": 472056,
-  "sha256": "1a2cbb877d04288a5da8a023e390e8970c94b307bbaa691c7efbb56686575a21",
-  "novidades": "### Simulador: atualizar os itens\n- Novo botão **↻** ao lado de **Limpar itens**: atualiza os produtos da simulação com os dados mais recentes (preços, custos e impostos), sem perder quantidades, descontos e valores digitados."
+  "arquivo": "SimoIA_1.0.0.41.zip",
+  "tamanho": 472209,
+  "sha256": "27bc0ea39ee08fcc60cbd100c87b3106404627d6c66a61d211df93863bd922b4",
+  "novidades": "### Simulador: margem sem os tributos descontados\n- Quando o **ICMS** ou o **PIS/COFINS** vem como desconto do total do pedido, esse valor **não entra mais no cálculo da margem**. Só o imposto incluso continua sendo descontado do resultado."
 }
