@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.39",
-  "data": "09/11/2026",
-  "arquivo": "SimoIA_1.0.0.39.zip",
-  "tamanho": 471448,
-  "sha256": "d6606b61537eb7d84aa1c2028cd3127844f2d20b2fc2ef5853879b6974e95745",
-  "novidades": "### Gestão › Atualizações: atualizar pelo sistema\n- No topo da guia **Atualizações** aparece se há uma **versão nova** disponível, com as novidades dela.\n- O botão **Atualizar agora** (só para master) baixa e instala a versão sozinho: o sistema fica fora do ar por cerca de 1 minuto e volta já atualizado, e a página recarrega sozinha. O banco e as configurações não mudam, e o código anterior fica guardado.\n- **Verificar de novo** consulta na hora se saiu versão nova."
+  "versao": "1.0.0.40",
+  "data": "10/11/2026",
+  "arquivo": "SimoIA_1.0.0.40.zip",
+  "tamanho": 472056,
+  "sha256": "1a2cbb877d04288a5da8a023e390e8970c94b307bbaa691c7efbb56686575a21",
+  "novidades": "### Simulador: atualizar os itens\n- Novo botão **↻** ao lado de **Limpar itens**: atualiza os produtos da simulação com os dados mais recentes (preços, custos e impostos), sem perder quantidades, descontos e valores digitados."
 }
