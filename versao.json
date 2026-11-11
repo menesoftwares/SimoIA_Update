@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.44",
+  "versao": "1.0.0.45",
   "data": "11/11/2026",
-  "arquivo": "SimoIA_1.0.0.44.zip",
-  "tamanho": 478144,
-  "sha256": "36f4da73836def5f6d6a90e27e4417a3d50e01eaced81242949824e77b5495e8",
-  "novidades": "### Simulador: imposto IS\n- Novo imposto **IS** (Imposto Seletivo), calculado como o IBS/CBS: chave Sim/Não e % geral no quadro **Tributos**, e o % de cada produto na linha **(+)**.\n- A coluna dos itens agora é **Vl IBS/CBS/IS**, e o quadro **Impostos** e o PDF mostram **IBS + CBS + IS**.\n\n### Simulador: salvar e carregar simulações\n- Novo botão **Opções Simulação**: **Salvar** guarda a simulação com um nome, e **Carregar** mostra as suas simulações salvas para abrir ou excluir. Cada usuário vê só as suas.\n\n### Simulador: botão Pedidos\n- **Carregar pedido** e **Últimos 5 pedidos** agora ficam dentro do botão **Pedidos**. A linha do topo ficou com 6 botões (no celular, 2 linhas de 3).\n- **Carregar pedido** fica sempre liberado: o cliente vem do pedido e, se estiverem vazios, o **Tipo Docto** e a **tabela de preço** também. O custo fica o primeiro da lista.\n\n### Simulador: margem só com os tributos calculados\n- Enquanto algum item estiver sem tributos, a **Margem geral** não aparece, e o botão **Calcular tributos** fica amarelo. Depois de calcular, a margem volta.\n\n### Simulador: ajustes na tela\n- Os botões ▶ da **Tabela de preço** e dos **Descontos padrão** ficaram mais baixos, com o mesmo símbolo."
+  "arquivo": "SimoIA_1.0.0.45.zip",
+  "tamanho": 481435,
+  "sha256": "342ea9b245691a14b8d192429373640c5792ca8ab0cbd567df86cb3b102c99c4",
+  "novidades": "### Simulador: imprimir relatório e gerar Excel\n- No botão **Opções Simulação**, duas opções novas: **Imprimir relatório** (o mesmo PDF do Compartilhar, direto para a impressora) e **Gerar Excel** (planilha com os dados da simulação e os itens linha a linha).\n- As duas perguntam se vão **com margens** ou **sem margens (para o cliente)**. O custo nunca vai.\n\n### Simulador: só com a margem calculada\n- **Compartilhar**, **Imprimir relatório** e **Gerar Excel** só liberam depois de calcular os tributos (com a **Margem geral** aparecendo).\n\n### Simulador: confirmações na própria tela\n- As perguntas de confirmação (Limpar Simulação, tirar todos os itens, salvar por cima, excluir ou carregar simulação salva) abrem uma janela da própria tela, no lugar do aviso do navegador."
 }
