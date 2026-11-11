@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.43",
-  "data": "10/11/2026",
-  "arquivo": "SimoIA_1.0.0.43.zip",
-  "tamanho": 473708,
-  "sha256": "e05d48c8c1b6fb1ba242584d9888a0ba20e6fdcc3ba0879aa02158041ed7af1b",
-  "novidades": "### Usuários: permissão para selecionar o custo no Simulador\n- Nova caixa **Simulador de preços (permite selecionar custo)** no cadastro de usuários. Sem ela, o campo **Custo** do Simulador mostra todos os custos, mas só o primeiro da lista pode ser escolhido. Começa desmarcada para todos.\n- **Integrar pedidos (simulador)** agora se chama **Simulador de preços (integrar pedidos)**, e as caixas foram reorganizadas em linhas: Simulador, depois custo e integrar pedidos, depois Coletor.\n\n### Simulador: tabela de preço por código\n- O campo **Tabela de preço** mostra cada tabela como **código - descrição**, em ordem de código.\n\n### Gestão › Atualizações\n- A versão nova aparece em até 1 minuto depois de publicada (antes podia levar até 5 minutos)."
+  "versao": "1.0.0.44",
+  "data": "11/11/2026",
+  "arquivo": "SimoIA_1.0.0.44.zip",
+  "tamanho": 478144,
+  "sha256": "36f4da73836def5f6d6a90e27e4417a3d50e01eaced81242949824e77b5495e8",
+  "novidades": "### Simulador: imposto IS\n- Novo imposto **IS** (Imposto Seletivo), calculado como o IBS/CBS: chave Sim/Não e % geral no quadro **Tributos**, e o % de cada produto na linha **(+)**.\n- A coluna dos itens agora é **Vl IBS/CBS/IS**, e o quadro **Impostos** e o PDF mostram **IBS + CBS + IS**.\n\n### Simulador: salvar e carregar simulações\n- Novo botão **Opções Simulação**: **Salvar** guarda a simulação com um nome, e **Carregar** mostra as suas simulações salvas para abrir ou excluir. Cada usuário vê só as suas.\n\n### Simulador: botão Pedidos\n- **Carregar pedido** e **Últimos 5 pedidos** agora ficam dentro do botão **Pedidos**. A linha do topo ficou com 6 botões (no celular, 2 linhas de 3).\n- **Carregar pedido** fica sempre liberado: o cliente vem do pedido e, se estiverem vazios, o **Tipo Docto** e a **tabela de preço** também. O custo fica o primeiro da lista.\n\n### Simulador: margem só com os tributos calculados\n- Enquanto algum item estiver sem tributos, a **Margem geral** não aparece, e o botão **Calcular tributos** fica amarelo. Depois de calcular, a margem volta.\n\n### Simulador: ajustes na tela\n- Os botões ▶ da **Tabela de preço** e dos **Descontos padrão** ficaram mais baixos, com o mesmo símbolo."
 }
