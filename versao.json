@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.47",
+  "versao": "1.0.0.48",
   "data": "12/11/2026",
-  "arquivo": "SimoIA_1.0.0.47.zip",
-  "tamanho": 483765,
-  "sha256": "6691de3e92a87e9adf72eed3efd53c3ea9338c48bcd4eaeda327d2102e67f014",
-  "novidades": "### Gestão: confirmação do \"Atualizar agora\" na própria tela\n- Ao clicar em **Atualizar agora** (guia Atualizações), a confirmação abre uma janela da própria tela, no lugar do aviso do navegador.\n\n### Simulador: sem zoom no celular\n- No celular, abrir o **Carregar pedido** (botão **Pedidos**) não amplia mais a tela."
+  "arquivo": "SimoIA_1.0.0.48.zip",
+  "tamanho": 483968,
+  "sha256": "42d1b7ce4f4ae84a61e14c11ab0ae80cf4020ed9190cb3c8d8022d716a7e2b20",
+  "novidades": "### Gestão: confirmações na própria tela\n- Todas as perguntas de confirmação da Gestão (excluir usuário, fazer logoff, reiniciar o serviço, limpar cache, trocar conexão, trocar o logo e as demais) abrem uma janela da própria tela, no lugar do aviso do navegador."
 }
