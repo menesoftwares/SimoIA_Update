@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.45",
-  "data": "11/11/2026",
-  "arquivo": "SimoIA_1.0.0.45.zip",
-  "tamanho": 481435,
-  "sha256": "342ea9b245691a14b8d192429373640c5792ca8ab0cbd567df86cb3b102c99c4",
-  "novidades": "### Simulador: imprimir relatório e gerar Excel\n- No botão **Opções Simulação**, duas opções novas: **Imprimir relatório** (o mesmo PDF do Compartilhar, direto para a impressora) e **Gerar Excel** (planilha com os dados da simulação e os itens linha a linha).\n- As duas perguntam se vão **com margens** ou **sem margens (para o cliente)**. O custo nunca vai.\n\n### Simulador: só com a margem calculada\n- **Compartilhar**, **Imprimir relatório** e **Gerar Excel** só liberam depois de calcular os tributos (com a **Margem geral** aparecendo).\n\n### Simulador: confirmações na própria tela\n- As perguntas de confirmação (Limpar Simulação, tirar todos os itens, salvar por cima, excluir ou carregar simulação salva) abrem uma janela da própria tela, no lugar do aviso do navegador."
+  "versao": "1.0.0.46",
+  "data": "12/11/2026",
+  "arquivo": "SimoIA_1.0.0.46.zip",
+  "tamanho": 483167,
+  "sha256": "90fe66fad74deaa300d8c4faf42366eb0c15c7e27f78464a05a2b7639862f400",
+  "novidades": "### Atualização automática do sistema\n- Na **Gestão › Gerais**, nova opção **Atualizar Sistema Automaticamente**: marque, informe a hora e salve.\n- Todo dia nessa hora o sistema procura uma versão nova e, se houver, se atualiza sozinho (fica fora do ar por cerca de 1 minuto). Escolha um horário sem uso, como de madrugada.\n- A tela mostra o resultado da última verificação automática."
 }
