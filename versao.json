@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.46",
+  "versao": "1.0.0.47",
   "data": "12/11/2026",
-  "arquivo": "SimoIA_1.0.0.46.zip",
-  "tamanho": 483167,
-  "sha256": "90fe66fad74deaa300d8c4faf42366eb0c15c7e27f78464a05a2b7639862f400",
-  "novidades": "### Atualização automática do sistema\n- Na **Gestão › Gerais**, nova opção **Atualizar Sistema Automaticamente**: marque, informe a hora e salve.\n- Todo dia nessa hora o sistema procura uma versão nova e, se houver, se atualiza sozinho (fica fora do ar por cerca de 1 minuto). Escolha um horário sem uso, como de madrugada.\n- A tela mostra o resultado da última verificação automática."
+  "arquivo": "SimoIA_1.0.0.47.zip",
+  "tamanho": 483765,
+  "sha256": "6691de3e92a87e9adf72eed3efd53c3ea9338c48bcd4eaeda327d2102e67f014",
+  "novidades": "### Gestão: confirmação do \"Atualizar agora\" na própria tela\n- Ao clicar em **Atualizar agora** (guia Atualizações), a confirmação abre uma janela da própria tela, no lugar do aviso do navegador.\n\n### Simulador: sem zoom no celular\n- No celular, abrir o **Carregar pedido** (botão **Pedidos**) não amplia mais a tela."
 }
