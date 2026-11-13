@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.49",
+  "versao": "1.0.0.50",
   "data": "13/11/2026",
-  "arquivo": "SimoIA_1.0.0.49.zip",
-  "tamanho": 493561,
-  "sha256": "75bceebc0f6db126d071540d1d60aa6fa1f47640ac586859ac5d5e77c8157254",
-  "novidades": "### Avisos do sistema por e-mail\n- Nova guia **Conf. interna** na Gestão (só para o administrador do sistema): cadastro do e-mail que o sistema usa para enviar mensagens e da lista de quem recebe os avisos.\n- Avisos possíveis: banco de dados fora do ar (Pesquisas, Simulador ou Coletor) e quando volta, atualização concluída, erro na atualização, versão nova disponível, usuário bloqueado por senha errada, serviço iniciado e erro interno do servidor.\n\n### Gestão: conexões com o banco para todos os master\n- Na **Gestão › Dados do banco**, qualquer usuário master pode trocar as conexões com o banco (Pesquisas, Simulador e Coletor) pelo botão **Testar e aplicar**.\n\n### Gestão: cadastro de usuário reorganizado\n- No quadro **Acesso**, a opção **Entrar com digital/rosto** fica ao lado da senha, e **Ativo** e **Master** ficam abaixo da senha, na mesma linha."
+  "arquivo": "SimoIA_1.0.0.50.zip",
+  "tamanho": 498272,
+  "sha256": "a3627ff3b90f3f42aac6650e6d2eb9d628a7b5899618896a30b31e10bce7c99a",
+  "novidades": "### Simulador: Excel personalizado\n- Na **Gestão › Simulador**, novo quadro **Excel personalizado** (acima dos SQLs, para qualquer usuário master): monte as colunas da planilha, com o nome de cada cabeçalho e o campo do produto que vai nela (código, descrição, preços, descontos, impostos, totais, margens e outros). Dá para mudar a ordem e remover colunas.\n- No Simulador, **Opções Simulação › Gerar Excel Personalizado** baixa a planilha nessa ordem, uma linha por produto, com os valores da tela. As colunas de margem só saem quando você escolhe \"Com margens\".\n\n### Conf. interna: limpar o log de e-mails\n- Botão **Limpar log** na lista dos últimos e-mails enviados."
 }
