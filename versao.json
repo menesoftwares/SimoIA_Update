@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.50",
+  "versao": "1.0.0.51",
   "data": "13/11/2026",
-  "arquivo": "SimoIA_1.0.0.50.zip",
-  "tamanho": 498272,
-  "sha256": "a3627ff3b90f3f42aac6650e6d2eb9d628a7b5899618896a30b31e10bce7c99a",
-  "novidades": "### Simulador: Excel personalizado\n- Na **Gestão › Simulador**, novo quadro **Excel personalizado** (acima dos SQLs, para qualquer usuário master): monte as colunas da planilha, com o nome de cada cabeçalho e o campo do produto que vai nela (código, descrição, preços, descontos, impostos, totais, margens e outros). Dá para mudar a ordem e remover colunas.\n- No Simulador, **Opções Simulação › Gerar Excel Personalizado** baixa a planilha nessa ordem, uma linha por produto, com os valores da tela. As colunas de margem só saem quando você escolhe \"Com margens\".\n\n### Conf. interna: limpar o log de e-mails\n- Botão **Limpar log** na lista dos últimos e-mails enviados."
+  "arquivo": "SimoIA_1.0.0.51.zip",
+  "tamanho": 502824,
+  "sha256": "fccc87f2b7cca7320e92d42082a871e8912ddde569a13e3c6820f16d3a19c116",
+  "novidades": "### Esqueci minha senha\n- Na tela de login, novo link **Esqueci minha senha**: informe o seu usuário ou e-mail e, se houver e-mail no cadastro, chega um link para criar uma nova senha. O link vale por 1 hora e só pode ser usado uma vez.\n- Se o usuário estava bloqueado por tentativas com senha errada, ele é desbloqueado ao criar a nova senha.\n\n### Simulador: mensagens abaixo dos botões\n- As mensagens de imprimir, gerar Excel, compartilhar e salvar aparecem num aviso amarelo logo abaixo dos botões, sem empurrar o botão **Voltar**, e somem sozinhas depois de alguns segundos.\n\n### Gestão › Atualizações: quem atualizou\n- Cada versão mostra a data e quem fez a atualização (o usuário, a atualização automática ou o atualizar.bat). Versão que veio junto com outra aparece como \"Instalada junto com\" a versão que a trouxe."
 }
