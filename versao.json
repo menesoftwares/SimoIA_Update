@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.52",
+  "versao": "1.0.0.53",
   "data": "14/11/2026",
-  "arquivo": "SimoIA_1.0.0.52.zip",
-  "tamanho": 504672,
-  "sha256": "8399b6f1571faf5841a85b7ba4fa6e529f0d49794ea7712a7c544f745565c0b1",
-  "novidades": "### Coletor › Rastreabilidade: produto e lote ao digitar\n- Ao digitar o código ou o nome do produto, aparece a lista para escolher; escolhido o produto, aparecem os lotes dele com a validade. Também dá para pesquisar um lote digitado que não esteja na lista (por exemplo, vencido).\n- O produto fica na linha de cima e o lote, com o botão **Pesquisar**, na linha de baixo.\n\n### Coletor: lotes em ordem de validade\n- As listas de lotes (Gerar etiqueta e Rastreabilidade) mostram primeiro a validade mais longa e, depois, o número do lote."
+  "arquivo": "SimoIA_1.0.0.53.zip",
+  "tamanho": 504295,
+  "sha256": "bc2982e3009ace4b4ae4d9753b4aeb99e8bc3306d929e7012925bcfb88dc3b71",
+  "novidades": "### Coletor › Rastreabilidade: lote digitado\n- Ao escolher o produto, a lista de lotes não é mais carregada: basta digitar o lote e clicar em **Pesquisar**.\n\n### Coletor: contorno dos campos\n- Nas pesquisas da Rastreabilidade e da Manutenção, o contorno laranja do campo selecionado aparece inteiro, sem cortes nas laterais, no celular e no computador."
 }
