@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.53",
+  "versao": "1.0.0.54",
   "data": "14/11/2026",
-  "arquivo": "SimoIA_1.0.0.53.zip",
-  "tamanho": 504295,
-  "sha256": "bc2982e3009ace4b4ae4d9753b4aeb99e8bc3306d929e7012925bcfb88dc3b71",
-  "novidades": "### Coletor › Rastreabilidade: lote digitado\n- Ao escolher o produto, a lista de lotes não é mais carregada: basta digitar o lote e clicar em **Pesquisar**.\n\n### Coletor: contorno dos campos\n- Nas pesquisas da Rastreabilidade e da Manutenção, o contorno laranja do campo selecionado aparece inteiro, sem cortes nas laterais, no celular e no computador."
+  "arquivo": "SimoIA_1.0.0.54.zip",
+  "tamanho": 504949,
+  "sha256": "1125a69e2f4d12e7efae7ae6ae7f0bdda350a3558ebee8e86992600091d171fc",
+  "novidades": "### Coletor: conferir e reabrir nota fora do período\n- A lista de notas a conferir continua só com as notas do período definido. Mas, ao digitar ou bipar a chave ou o número de uma nota, ela abre mesmo sendo de antes do período, e também pode ser reaberta, desde que seja do tipo de nota que o Coletor confere.\n\n### Coletor › Gerar etiqueta: aviso dos lotes\n- Se a leitura dos lotes falhar, a tela tenta de novo sozinha; e o aviso de erro some assim que os lotes chegam ou quando outro produto é escolhido."
 }
