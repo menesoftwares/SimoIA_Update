@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.51",
-  "data": "13/11/2026",
-  "arquivo": "SimoIA_1.0.0.51.zip",
-  "tamanho": 502824,
-  "sha256": "fccc87f2b7cca7320e92d42082a871e8912ddde569a13e3c6820f16d3a19c116",
-  "novidades": "### Esqueci minha senha\n- Na tela de login, novo link **Esqueci minha senha**: informe o seu usuário ou e-mail e, se houver e-mail no cadastro, chega um link para criar uma nova senha. O link vale por 1 hora e só pode ser usado uma vez.\n- Se o usuário estava bloqueado por tentativas com senha errada, ele é desbloqueado ao criar a nova senha.\n\n### Simulador: mensagens abaixo dos botões\n- As mensagens de imprimir, gerar Excel, compartilhar e salvar aparecem num aviso amarelo logo abaixo dos botões, sem empurrar o botão **Voltar**, e somem sozinhas depois de alguns segundos.\n\n### Gestão › Atualizações: quem atualizou\n- Cada versão mostra a data e quem fez a atualização (o usuário, a atualização automática ou o atualizar.bat). Versão que veio junto com outra aparece como \"Instalada junto com\" a versão que a trouxe."
+  "versao": "1.0.0.52",
+  "data": "14/11/2026",
+  "arquivo": "SimoIA_1.0.0.52.zip",
+  "tamanho": 504672,
+  "sha256": "8399b6f1571faf5841a85b7ba4fa6e529f0d49794ea7712a7c544f745565c0b1",
+  "novidades": "### Coletor › Rastreabilidade: produto e lote ao digitar\n- Ao digitar o código ou o nome do produto, aparece a lista para escolher; escolhido o produto, aparecem os lotes dele com a validade. Também dá para pesquisar um lote digitado que não esteja na lista (por exemplo, vencido).\n- O produto fica na linha de cima e o lote, com o botão **Pesquisar**, na linha de baixo.\n\n### Coletor: lotes em ordem de validade\n- As listas de lotes (Gerar etiqueta e Rastreabilidade) mostram primeiro a validade mais longa e, depois, o número do lote."
 }
