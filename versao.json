@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.55",
+  "versao": "1.0.0.56",
   "data": "14/11/2026",
-  "arquivo": "SimoIA_1.0.0.55.zip",
-  "tamanho": 505264,
-  "sha256": "379796f8390f07cdaf7696dd5b484041887c88f18b1f1e606ad849db46880141",
-  "novidades": "### Coletor › Gerar etiqueta: item sem lote\n- Com **Exigir lote produto na etiqueta** ligado, o produto que não tem lote passa a oferecer o lote **_CTRL_LOTE_ATIVADO_APOS_** no campo Lote, e a etiqueta pode ser gerada.\n- Da mesma forma no kit: com **Exigir lote kit na etiqueta** ligado, o componente sem lote recebe o lote **_CTRL_LOTE_ATIVADO_APOS_**."
+  "arquivo": "SimoIA_1.0.0.56.zip",
+  "tamanho": 507635,
+  "sha256": "6eb260b9546c050ffc46850c4c8c39dd1fe0815c8e3d55ff82896434ebe2e438",
+  "novidades": "### Gestão › Conf. interna: cópia do banco por e-mail\n- Novo quadro **Cópia do banco por e-mail**: escolha o horário e os e-mails, e todo dia o sistema envia uma cópia do banco (compactada) pelo e-mail padrão do sistema. O botão **Enviar agora** manda a cópia na hora.\n- Se o envio falhar, o sistema tenta de novo a cada 10 minutos por até 1 hora depois do horário marcado, e a tela mostra o resultado do último envio."
 }
