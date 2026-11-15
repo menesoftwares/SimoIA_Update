@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.56",
-  "data": "14/11/2026",
-  "arquivo": "SimoIA_1.0.0.56.zip",
-  "tamanho": 507635,
-  "sha256": "6eb260b9546c050ffc46850c4c8c39dd1fe0815c8e3d55ff82896434ebe2e438",
-  "novidades": "### Gestão › Conf. interna: cópia do banco por e-mail\n- Novo quadro **Cópia do banco por e-mail**: escolha o horário e os e-mails, e todo dia o sistema envia uma cópia do banco (compactada) pelo e-mail padrão do sistema. O botão **Enviar agora** manda a cópia na hora.\n- Se o envio falhar, o sistema tenta de novo a cada 10 minutos por até 1 hora depois do horário marcado, e a tela mostra o resultado do último envio."
+  "versao": "1.0.0.57",
+  "data": "15/11/2026",
+  "arquivo": "SimoIA_1.0.0.57.zip",
+  "tamanho": 507713,
+  "sha256": "6d2f554fff0bceb5b2b771ded5448ce605bed178b38ba110b8b25b078869b388",
+  "novidades": "### Simulador no celular\n- Tocar no campo **Produtos** não dá mais zoom na página."
 }
