@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.57",
+  "versao": "1.0.0.58",
   "data": "15/11/2026",
-  "arquivo": "SimoIA_1.0.0.57.zip",
-  "tamanho": 507713,
-  "sha256": "6d2f554fff0bceb5b2b771ded5448ce605bed178b38ba110b8b25b078869b388",
-  "novidades": "### Simulador no celular\n- Tocar no campo **Produtos** não dá mais zoom na página."
+  "arquivo": "SimoIA_1.0.0.58.zip",
+  "tamanho": 509662,
+  "sha256": "345d10df140185120d911cd65f8ac5f379aea9b2818df0a1f6e0f44ac6184e3f",
+  "novidades": "### Coletor › Manutenção: Ver e Imprimir nas conferidas\n- Cada nota da lista **Conferidas** ganhou o botão **Ver**, que mostra os dados da nota e todas as coletas feitas (produto, lote, quantidade, conferente, data e hora).\n- O botão **Imprimir** gera uma folha com os dados da nota e a lista das coletas."
 }
