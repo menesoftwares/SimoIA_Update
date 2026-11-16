@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.58",
-  "data": "15/11/2026",
-  "arquivo": "SimoIA_1.0.0.58.zip",
-  "tamanho": 509662,
-  "sha256": "345d10df140185120d911cd65f8ac5f379aea9b2818df0a1f6e0f44ac6184e3f",
-  "novidades": "### Coletor › Manutenção: Ver e Imprimir nas conferidas\n- Cada nota da lista **Conferidas** ganhou o botão **Ver**, que mostra os dados da nota e todas as coletas feitas (produto, lote, quantidade, conferente, data e hora).\n- O botão **Imprimir** gera uma folha com os dados da nota e a lista das coletas."
+  "versao": "1.0.0.59",
+  "data": "16/11/2026",
+  "arquivo": "SimoIA_1.0.0.59.zip",
+  "tamanho": 511828,
+  "sha256": "4e35952dbd77f0058b9eff2279e6031a1488a330be69a69dcf019cf5fdbc20ee",
+  "novidades": "### Página inicial mais simples e na ordem que você quiser\n- O título agora é **Pergunte aqui...**, e a caixa da pergunta com o **Montar a consulta** ficaram juntos num balão só.\n- Saíram as listas de perguntas frequentes e de sugestões.\n- Na **Gestão › Gerais › Ordem da página inicial** dá para escolher a ordem dos balões (Tempo, Câmbio, Hoje, Pergunte aqui, Commodities e Notícias) e quais aparecem.\n\n### Simulador: Suframa\n- Com a chave **Suframa** em \"Não\", os tributos são calculados sem Suframa."
 }
