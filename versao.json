@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.60",
+  "versao": "1.0.0.61",
   "data": "16/11/2026",
-  "arquivo": "SimoIA_1.0.0.60.zip",
-  "tamanho": 514515,
-  "sha256": "ab85511bc104d28b3cdc1407c8b2a3a7a1da47315d2ac744f45700fc95db904b",
-  "novidades": "### Pesquisa: vendas por documento\n- Pergunte, por exemplo, **\"últimas vendas do cliente 18888 por documento\"**: a resposta lista cada documento com número, data e valor, do mais recente para o mais antigo. Sem período na pergunta, olha os últimos 90 dias.\n- Com **\"com os produtos\"** na pergunta, a tela mostra a lista de documentos e o Excel traz os produtos de cada um.\n\n### Baixar dados\n- O botão **Baixar em Excel** agora se chama **Baixar dados**.\n- Em qualquer pesquisa, o arquivo traz o resumo da tela e, na aba **Dados**, todos os dados do relatório para o período e os filtros da pergunta."
+  "arquivo": "SimoIA_1.0.0.61.zip",
+  "tamanho": 514883,
+  "sha256": "879db693d253c4f8017139c5ace23722d1b60194d5bbc1713627fb2e963fe22d",
+  "novidades": "### Baixar dados: números sem formatação na aba Dados\n- Na aba **Dados**, códigos, números de documento e datas aparecem como vieram, sem ponto de milhar nem \",00\" no final (ex.: **12345** em vez de 12.345,00).\n\n### Coletor: Gerar etiqueta\n- Enquanto a lista de produtos ou de kits está carregando, o campo de pesquisa fica bloqueado com o aviso **Aguarde**. Ele libera sozinho assim que os dados chegam."
 }
