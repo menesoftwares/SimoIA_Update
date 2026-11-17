@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.61",
-  "data": "16/11/2026",
-  "arquivo": "SimoIA_1.0.0.61.zip",
-  "tamanho": 514883,
-  "sha256": "879db693d253c4f8017139c5ace23722d1b60194d5bbc1713627fb2e963fe22d",
-  "novidades": "### Baixar dados: números sem formatação na aba Dados\n- Na aba **Dados**, códigos, números de documento e datas aparecem como vieram, sem ponto de milhar nem \",00\" no final (ex.: **12345** em vez de 12.345,00).\n\n### Coletor: Gerar etiqueta\n- Enquanto a lista de produtos ou de kits está carregando, o campo de pesquisa fica bloqueado com o aviso **Aguarde**. Ele libera sozinho assim que os dados chegam."
+  "versao": "1.0.0.62",
+  "data": "17/11/2026",
+  "arquivo": "SimoIA_1.0.0.62.zip",
+  "tamanho": 515753,
+  "sha256": "9e79405669d2ac2ea98ef8807a2534431ea3b39dcef210de33d2c427a54a10e2",
+  "novidades": "### Simulador: margem e IBS/CBS iguais ao ERP\n- A margem total e o valor de IBS/CBS agora fecham com o ERP até o centavo: os impostos são arredondados item a item, como o ERP faz, antes de somar (ex.: pedido que mostrava 7,31% aqui e 7,30% no ERP)."
 }
