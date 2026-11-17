@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.59",
+  "versao": "1.0.0.60",
   "data": "16/11/2026",
-  "arquivo": "SimoIA_1.0.0.59.zip",
-  "tamanho": 511828,
-  "sha256": "4e35952dbd77f0058b9eff2279e6031a1488a330be69a69dcf019cf5fdbc20ee",
-  "novidades": "### Página inicial mais simples e na ordem que você quiser\n- O título agora é **Pergunte aqui...**, e a caixa da pergunta com o **Montar a consulta** ficaram juntos num balão só.\n- Saíram as listas de perguntas frequentes e de sugestões.\n- Na **Gestão › Gerais › Ordem da página inicial** dá para escolher a ordem dos balões (Tempo, Câmbio, Hoje, Pergunte aqui, Commodities e Notícias) e quais aparecem.\n\n### Simulador: Suframa\n- Com a chave **Suframa** em \"Não\", os tributos são calculados sem Suframa."
+  "arquivo": "SimoIA_1.0.0.60.zip",
+  "tamanho": 514515,
+  "sha256": "ab85511bc104d28b3cdc1407c8b2a3a7a1da47315d2ac744f45700fc95db904b",
+  "novidades": "### Pesquisa: vendas por documento\n- Pergunte, por exemplo, **\"últimas vendas do cliente 18888 por documento\"**: a resposta lista cada documento com número, data e valor, do mais recente para o mais antigo. Sem período na pergunta, olha os últimos 90 dias.\n- Com **\"com os produtos\"** na pergunta, a tela mostra a lista de documentos e o Excel traz os produtos de cada um.\n\n### Baixar dados\n- O botão **Baixar em Excel** agora se chama **Baixar dados**.\n- Em qualquer pesquisa, o arquivo traz o resumo da tela e, na aba **Dados**, todos os dados do relatório para o período e os filtros da pergunta."
 }
