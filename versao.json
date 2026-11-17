@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.62",
+  "versao": "1.0.0.63",
   "data": "17/11/2026",
-  "arquivo": "SimoIA_1.0.0.62.zip",
-  "tamanho": 515753,
-  "sha256": "9e79405669d2ac2ea98ef8807a2534431ea3b39dcef210de33d2c427a54a10e2",
-  "novidades": "### Simulador: margem e IBS/CBS iguais ao ERP\n- A margem total e o valor de IBS/CBS agora fecham com o ERP até o centavo: os impostos são arredondados item a item, como o ERP faz, antes de somar (ex.: pedido que mostrava 7,31% aqui e 7,30% no ERP)."
+  "arquivo": "SimoIA_1.0.0.63.zip",
+  "tamanho": 515885,
+  "sha256": "3aff1dfcbca27f5a2ec40fb971491130da933be4dc5b2899de0d42dfb70c6a62",
+  "novidades": "### Simulador: pedido carregado já vem com os tributos\n- Ao usar **Carregar pedido** ou **Últimos 5 pedidos**, os tributos dos itens são calculados logo em seguida, mesmo com a chave **Online** em Não. Não precisa mais clicar em \"Calcular tributos\"."
 }
