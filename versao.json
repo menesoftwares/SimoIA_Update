@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.64",
+  "versao": "1.0.0.65",
   "data": "18/11/2026",
-  "arquivo": "SimoIA_1.0.0.64.zip",
-  "tamanho": 516193,
-  "sha256": "8676ab7eca201a1a4ff9a0f314709e316592df419c09a0f64c00fd88a4397934",
-  "novidades": "### Simulador: Margem Sistema Atual\n- O quadro ao lado de Parâmetros agora se chama **Margem Sistema Atual**.\n\n### Simulador: ajuda revisada\n- A ajuda (botão **i**) foi atualizada: explica os botões de atualizar, o **Limpar itens**, como os produtos entram com a chave **Online** em Não e tudo o que o **Integrar** precisa para liberar."
+  "arquivo": "SimoIA_1.0.0.65.zip",
+  "tamanho": 516437,
+  "sha256": "40e3f02165785f191083ea79775f059c0f1688588453213842ad29fde575d3aa",
+  "novidades": "### Simulador no celular: Suframa ao lado da UF\n- A chave **Suframa** agora fica na mesma linha da **UF de venda**.\n\n### Simulador no celular: sem zoom nos campos\n- Ao tocar em seleções, descontos, tributos e valores, a tela não dá mais zoom."
 }
