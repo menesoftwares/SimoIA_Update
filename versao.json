@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.65",
+  "versao": "1.0.0.66",
   "data": "18/11/2026",
-  "arquivo": "SimoIA_1.0.0.65.zip",
-  "tamanho": 516437,
-  "sha256": "40e3f02165785f191083ea79775f059c0f1688588453213842ad29fde575d3aa",
-  "novidades": "### Simulador no celular: Suframa ao lado da UF\n- A chave **Suframa** agora fica na mesma linha da **UF de venda**.\n\n### Simulador no celular: sem zoom nos campos\n- Ao tocar em seleções, descontos, tributos e valores, a tela não dá mais zoom."
+  "arquivo": "SimoIA_1.0.0.66.zip",
+  "tamanho": 516602,
+  "sha256": "7733fee64532027c5f901865104e077190ccf2d6cc81d04d4fe9d1c2ebd200b6",
+  "novidades": "### Simulador no celular: tributos do item alinhados\n- Ao tocar no **+** de um item, os tributos aparecem 2 por linha, com os campos alinhados."
 }
