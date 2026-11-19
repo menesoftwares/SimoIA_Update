@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.63",
-  "data": "17/11/2026",
-  "arquivo": "SimoIA_1.0.0.63.zip",
-  "tamanho": 515885,
-  "sha256": "3aff1dfcbca27f5a2ec40fb971491130da933be4dc5b2899de0d42dfb70c6a62",
-  "novidades": "### Simulador: pedido carregado já vem com os tributos\n- Ao usar **Carregar pedido** ou **Últimos 5 pedidos**, os tributos dos itens são calculados logo em seguida, mesmo com a chave **Online** em Não. Não precisa mais clicar em \"Calcular tributos\"."
+  "versao": "1.0.0.64",
+  "data": "18/11/2026",
+  "arquivo": "SimoIA_1.0.0.64.zip",
+  "tamanho": 516193,
+  "sha256": "8676ab7eca201a1a4ff9a0f314709e316592df419c09a0f64c00fd88a4397934",
+  "novidades": "### Simulador: Margem Sistema Atual\n- O quadro ao lado de Parâmetros agora se chama **Margem Sistema Atual**.\n\n### Simulador: ajuda revisada\n- A ajuda (botão **i**) foi atualizada: explica os botões de atualizar, o **Limpar itens**, como os produtos entram com a chave **Online** em Não e tudo o que o **Integrar** precisa para liberar."
 }
