@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.66",
-  "data": "18/11/2026",
-  "arquivo": "SimoIA_1.0.0.66.zip",
-  "tamanho": 516602,
-  "sha256": "7733fee64532027c5f901865104e077190ccf2d6cc81d04d4fe9d1c2ebd200b6",
-  "novidades": "### Simulador no celular: tributos do item alinhados\n- Ao tocar no **+** de um item, os tributos aparecem 2 por linha, com os campos alinhados."
+  "versao": "1.0.0.67",
+  "data": "21/11/2026",
+  "arquivo": "SimoIA_1.0.0.67.zip",
+  "tamanho": 516773,
+  "sha256": "1a153a9626a99136cf33eacd5a343eec82e503cc459ff27d0e82f06eed67d519",
+  "novidades": "### Rastreabilidade no celular: sem zoom nos campos\n- Ao tocar em **Produto** e **Lote**, a tela não dá mais zoom."
 }
