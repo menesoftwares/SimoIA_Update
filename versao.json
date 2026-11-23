@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.67",
-  "data": "21/11/2026",
-  "arquivo": "SimoIA_1.0.0.67.zip",
-  "tamanho": 516773,
-  "sha256": "1a153a9626a99136cf33eacd5a343eec82e503cc459ff27d0e82f06eed67d519",
-  "novidades": "### Rastreabilidade no celular: sem zoom nos campos\n- Ao tocar em **Produto** e **Lote**, a tela não dá mais zoom."
+  "versao": "1.0.0.68",
+  "data": "22/11/2026",
+  "arquivo": "SimoIA_1.0.0.68.zip",
+  "tamanho": 519019,
+  "sha256": "54c9588fcff52b21fc7db2b4f8aa88722b0f9de505cf38418131861ccba4af4e",
+  "novidades": "### Tela inicial: hora no balão do tempo\n- O título do balão do tempo mostra a hora ao lado da data, atualizando sozinha.\n\n### Gestão: Dados gerais com cidade e UF\n- Na guia **Gerais**, **Título da página** e **Site da empresa** ficaram num balão só, **Dados gerais**, com os campos **Cidade** e **UF** e um botão para salvar tudo.\n\n### Previsão do tempo da cidade da empresa\n- A previsão do tempo da tela inicial passa a ser da **Cidade** e **UF** de Dados gerais. Ao trocar a cidade, a previsão nova aparece na hora."
 }
