@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.68",
-  "data": "22/11/2026",
-  "arquivo": "SimoIA_1.0.0.68.zip",
-  "tamanho": 519019,
-  "sha256": "54c9588fcff52b21fc7db2b4f8aa88722b0f9de505cf38418131861ccba4af4e",
-  "novidades": "### Tela inicial: hora no balão do tempo\n- O título do balão do tempo mostra a hora ao lado da data, atualizando sozinha.\n\n### Gestão: Dados gerais com cidade e UF\n- Na guia **Gerais**, **Título da página** e **Site da empresa** ficaram num balão só, **Dados gerais**, com os campos **Cidade** e **UF** e um botão para salvar tudo.\n\n### Previsão do tempo da cidade da empresa\n- A previsão do tempo da tela inicial passa a ser da **Cidade** e **UF** de Dados gerais. Ao trocar a cidade, a previsão nova aparece na hora."
+  "versao": "1.0.0.69",
+  "data": "23/11/2026",
+  "arquivo": "SimoIA_1.0.0.69.zip",
+  "tamanho": 521160,
+  "sha256": "41999c410d455989b2a5f873328dcfa6a449d925dfee1baa38c3d2309083227d",
+  "novidades": "### Usuários: Integração ERP\n- O cadastro de usuário ganhou, no fim, o balão **Integração ERP**, com o **Cód. Pessoa ERP** e o **Perfil ERP** (Administrativo, Supervisor ou Vendedor). Todos começam como Administrativo, sem nenhuma mudança.\n\n### Supervisor e Vendedor veem só as próprias vendas\n- Nos relatórios do Comercial (vendas, resultado de vendas e fretes), quem tem o perfil **Vendedor** vê só as vendas dele, e o **Supervisor**, as dos vendedores ligados a ele no cadastro do ERP. Para esses perfis o **Cód. Pessoa ERP** é obrigatório.\n- O quadro **Comercial** dos números do dia, que é da empresa toda, não aparece para eles."
 }
