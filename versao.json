@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.69",
+  "versao": "1.0.0.70",
   "data": "23/11/2026",
-  "arquivo": "SimoIA_1.0.0.69.zip",
-  "tamanho": 521160,
-  "sha256": "41999c410d455989b2a5f873328dcfa6a449d925dfee1baa38c3d2309083227d",
-  "novidades": "### Usuários: Integração ERP\n- O cadastro de usuário ganhou, no fim, o balão **Integração ERP**, com o **Cód. Pessoa ERP** e o **Perfil ERP** (Administrativo, Supervisor ou Vendedor). Todos começam como Administrativo, sem nenhuma mudança.\n\n### Supervisor e Vendedor veem só as próprias vendas\n- Nos relatórios do Comercial (vendas, resultado de vendas e fretes), quem tem o perfil **Vendedor** vê só as vendas dele, e o **Supervisor**, as dos vendedores ligados a ele no cadastro do ERP. Para esses perfis o **Cód. Pessoa ERP** é obrigatório.\n- O quadro **Comercial** dos números do dia, que é da empresa toda, não aparece para eles."
+  "arquivo": "SimoIA_1.0.0.70.zip",
+  "tamanho": 521650,
+  "sha256": "7d49b0121abe47b68b4d21fbac274b8e60ba339bc1fee9f35f681b3343997ec4",
+  "novidades": "### Vendas em peso\n- Agora dá para perguntar as vendas em peso: \"Quanto foi vendido este mês em peso líquido?\", \"vendas em kg por vendedor\", \"vendas em peso bruto\". A resposta sai em kg, e as medidas **Peso líquido (kg)** e **Peso bruto (kg)** também estão no formulário.\n\n### Vendas: mais palavras reconhecidas\n- O sistema entende **vendemos**, **vendida** e **vendidas**: \"quantos quilos vendemos este mês\", \"quantidade vendida por produto\"."
 }
