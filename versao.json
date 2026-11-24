@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.70",
+  "versao": "1.0.0.71",
   "data": "23/11/2026",
-  "arquivo": "SimoIA_1.0.0.70.zip",
-  "tamanho": 521650,
-  "sha256": "7d49b0121abe47b68b4d21fbac274b8e60ba339bc1fee9f35f681b3343997ec4",
-  "novidades": "### Vendas em peso\n- Agora dá para perguntar as vendas em peso: \"Quanto foi vendido este mês em peso líquido?\", \"vendas em kg por vendedor\", \"vendas em peso bruto\". A resposta sai em kg, e as medidas **Peso líquido (kg)** e **Peso bruto (kg)** também estão no formulário.\n\n### Vendas: mais palavras reconhecidas\n- O sistema entende **vendemos**, **vendida** e **vendidas**: \"quantos quilos vendemos este mês\", \"quantidade vendida por produto\"."
+  "arquivo": "SimoIA_1.0.0.71.zip",
+  "tamanho": 522283,
+  "sha256": "5296e64031ce6cef473aa399c9dcf2729440828c0aab7bbe5be7ef875296ef6c",
+  "novidades": "### Coletor: leituras da expedição identificadas\n- As leituras da conferência passam a ser gravadas como **expedição**, e a conferência, a manutenção e a rastreabilidade mostram só elas. Nada muda no uso do Coletor."
 }
