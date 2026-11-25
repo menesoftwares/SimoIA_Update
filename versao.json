@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.71",
-  "data": "23/11/2026",
-  "arquivo": "SimoIA_1.0.0.71.zip",
-  "tamanho": 522283,
-  "sha256": "5296e64031ce6cef473aa399c9dcf2729440828c0aab7bbe5be7ef875296ef6c",
-  "novidades": "### Coletor: leituras da expedição identificadas\n- As leituras da conferência passam a ser gravadas como **expedição**, e a conferência, a manutenção e a rastreabilidade mostram só elas. Nada muda no uso do Coletor."
+  "versao": "1.0.0.72",
+  "data": "24/11/2026",
+  "arquivo": "SimoIA_1.0.0.72.zip",
+  "tamanho": 593326,
+  "sha256": "fa6505fdd6903d9dd798f975337e3759afda41b94a25a4c3664f6bb340fc43ef",
+  "novidades": "### Coletor › Manutenção: excluir uma conferência finalizada\n- Cada nota da lista **Conferidas** ganhou o botão **Excluir**, ao lado de Ver e Imprimir. Depois de confirmar, todas as leituras da nota são excluídas e ela volta para coletar, do zero.\n- Não dá para excluir se a nota estiver em coleta. Quem excluiu fica registrado.\n- A nota excluída sai também da **Rastreabilidade**, até ser conferida de novo.\n\n### Melhorias internas\n- Organização interna do sistema, sem mudança nas telas."
 }
