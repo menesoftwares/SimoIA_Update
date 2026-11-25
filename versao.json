@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.72",
+  "versao": "1.0.0.73",
   "data": "24/11/2026",
-  "arquivo": "SimoIA_1.0.0.72.zip",
-  "tamanho": 593326,
-  "sha256": "fa6505fdd6903d9dd798f975337e3759afda41b94a25a4c3664f6bb340fc43ef",
-  "novidades": "### Coletor › Manutenção: excluir uma conferência finalizada\n- Cada nota da lista **Conferidas** ganhou o botão **Excluir**, ao lado de Ver e Imprimir. Depois de confirmar, todas as leituras da nota são excluídas e ela volta para coletar, do zero.\n- Não dá para excluir se a nota estiver em coleta. Quem excluiu fica registrado.\n- A nota excluída sai também da **Rastreabilidade**, até ser conferida de novo.\n\n### Melhorias internas\n- Organização interna do sistema, sem mudança nas telas."
+  "arquivo": "SimoIA_1.0.0.73.zip",
+  "tamanho": 593427,
+  "sha256": "81de83bab5f10162da5cd024e6036f37638050a4f2aa3f22c4644e16c2b091bf",
+  "novidades": "### Coletor › Manutenção: botões do mesmo tamanho\n- Nas notas conferidas, os botões **Ver**, **Imprimir** e **Excluir** agora têm o mesmo tamanho, no computador e no celular."
 }
