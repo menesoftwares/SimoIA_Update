@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.73",
-  "data": "24/11/2026",
-  "arquivo": "SimoIA_1.0.0.73.zip",
-  "tamanho": 593427,
-  "sha256": "81de83bab5f10162da5cd024e6036f37638050a4f2aa3f22c4644e16c2b091bf",
-  "novidades": "### Coletor › Manutenção: botões do mesmo tamanho\n- Nas notas conferidas, os botões **Ver**, **Imprimir** e **Excluir** agora têm o mesmo tamanho, no computador e no celular."
+  "versao": "1.0.0.74",
+  "data": "27/11/2026",
+  "arquivo": "SimoIA_1.0.0.74.zip",
+  "tamanho": 604971,
+  "sha256": "2aa1b7956ea22c524dcd4c4587a2249448897b2c699972afb8dc2d8923ce8640",
+  "novidades": "### Pesquisas: comparativo de anos\n- Agora dá para comparar anos numa pergunta só: \"gráfico comparativo de vendas do vendedor 321, comparando 2025 e 2026 em peso e em valor, com a positivação dos clientes\", \"vendas 2025 x 2026 por mês\", \"compare as vendas deste ano com o ano passado\".\n- A resposta mostra cada ano lado a lado com o **% de crescimento**. Com o ano atual ainda em andamento, também compara o **mesmo período** do ano anterior (de 01/01 até hoje), que é a comparação mais justa.\n- Com **positivação**: quantos clientes compraram em cada ano, quantos compraram nos dois, os novos e os que não voltaram, e a lista dos clientes com os valores de cada ano.\n- Com \"gráfico\", sai um gráfico por medida (valor, peso, clientes). O **Baixar dados** traz o comparativo e a lista completa de clientes.\n\n### Pesquisas: o sistema aprende sozinho\n- De hora em hora, o sistema revisa as perguntas feitas. Quando uma pergunta não foi entendida e a pessoa reescreveu de outro jeito e deu certo, a primeira frase passa a ser entendida também.\n- As palavras que vários usuários usam para o mesmo relatório passam a valer para todos."
 }
