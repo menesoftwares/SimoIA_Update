@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.0.74",
+  "versao": "1.0.0.75",
   "data": "27/11/2026",
-  "arquivo": "SimoIA_1.0.0.74.zip",
-  "tamanho": 604971,
-  "sha256": "2aa1b7956ea22c524dcd4c4587a2249448897b2c699972afb8dc2d8923ce8640",
-  "novidades": "### Pesquisas: comparativo de anos\n- Agora dá para comparar anos numa pergunta só: \"gráfico comparativo de vendas do vendedor 321, comparando 2025 e 2026 em peso e em valor, com a positivação dos clientes\", \"vendas 2025 x 2026 por mês\", \"compare as vendas deste ano com o ano passado\".\n- A resposta mostra cada ano lado a lado com o **% de crescimento**. Com o ano atual ainda em andamento, também compara o **mesmo período** do ano anterior (de 01/01 até hoje), que é a comparação mais justa.\n- Com **positivação**: quantos clientes compraram em cada ano, quantos compraram nos dois, os novos e os que não voltaram, e a lista dos clientes com os valores de cada ano.\n- Com \"gráfico\", sai um gráfico por medida (valor, peso, clientes). O **Baixar dados** traz o comparativo e a lista completa de clientes.\n\n### Pesquisas: o sistema aprende sozinho\n- De hora em hora, o sistema revisa as perguntas feitas. Quando uma pergunta não foi entendida e a pessoa reescreveu de outro jeito e deu certo, a primeira frase passa a ser entendida também.\n- As palavras que vários usuários usam para o mesmo relatório passam a valer para todos."
+  "arquivo": "SimoIA_1.0.0.75.zip",
+  "tamanho": 605685,
+  "sha256": "9a843a48135e2f20b136f4b37587df2c8957ab112005f392d67c84ab2a411423",
+  "novidades": "### Pesquisas: ranking de produtos\n- Agora dá para pedir \"ranking de produtos do vendedor 369 de 01/01/2026 a 31/10/2026\": a resposta lista os produtos **vendidos (positivados)** no período, do maior para o menor.\n- Sem dizer a medida, o ranking sai pelo **valor líquido**. Também dá para pedir por **peso líquido**, **peso bruto**, **quantidade** ou **valor bruto**: \"ranking de produtos do vendedor 369 em peso líquido\".\n\n### Pesquisas: o sistema confirma quando falta o assunto\n- Quando a pergunta não diz de qual relatório é (por exemplo, só \"ranking de produtos…\"), o sistema pergunta antes **\"Estamos falando de vendas?\"**, com o botão **Sim** e os outros relatórios.\n- A escolha fica guardada: nas próximas perguntas parecidas, o sistema já entende sozinho e avisa."
 }
